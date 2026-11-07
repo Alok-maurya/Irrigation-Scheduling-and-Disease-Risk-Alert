@@ -1,4 +1,4 @@
-# Irrigation-Scheduling-and-Disease-Infestation-Alert
+# Irrigation-Scheduling-and-Disease-Risk-Alert
 #This respiratory contains the code for detection Disease infestation and Irrigation Scheduling on the specific day.
 # Few thing to be need
 1. Provide the proper indexing of the required parameter, such as for first coulmn it should be zero. 
