@@ -88,7 +88,7 @@ def run():
                         check = 1
                         break
                 if check == 0 and dalert != day:
-                    output_text.insert(tk.END, f"{tstep[i]}  →  Disease Infestation Alert ! ! !\n")
+                    output_text.insert(tk.END, f"{tstep[i]}  →  Disease Rsik Alert or Disease conducive conditions! ! !\n")
                     dalert = day
 
             elapsed = round(time.time() - start_time, 2)
@@ -105,7 +105,7 @@ def run():
         df_cache = None  # Clear cached dataframe to force reload on next process
 
     root = tk.Tk()
-    root.title("Irrigation Scheduling & Disease Infestation Alert System")
+    root.title("Irrigation Scheduling & Disease Risk Alert System")
 
     file_path = tk.StringVar()
     sheet_name = tk.StringVar(value="Sheet1")
