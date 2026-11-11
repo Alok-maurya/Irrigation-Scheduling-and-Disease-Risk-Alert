@@ -6,7 +6,7 @@
 3. Here this script check the four hr interval condition over the whole dataset--> to check the condition
 
 # # A screenshot of the GUI is provided below. This GUI is user-friendly and users can easily use it.
-![Screenshot 2025-06-25 180425](https://github.com/user-attachments/assets/c0b41833-c979-416d-b35f-f973dd7bdd4d)
+
 <img width="667" height="673" alt="Screenshot 2026-11-11 115227" src="https://github.com/user-attachments/assets/6de0f8cf-497d-41de-9847-547ff644467b" />
 
 ## I have provided a screenshot of how to install and manage the GUI.
